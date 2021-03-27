@@ -1,6 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Information Science Club</title><link>https://is-club.github.io/posts/</link><description>Recent content in Posts on Information Science Club</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>Information Science Club</copyright><lastBuildDate>Sat, 27 Mar 2021 21:42:11 +0900</lastBuildDate><atom:link href="https://is-club.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>ブログ始めました</title><link>https://is-club.github.io/posts/first-post/</link><pubDate>Sat, 27 Mar 2021 21:42:11 +0900</pubDate><guid>https://is-club.github.io/posts/first-post/</guid><description>情報科学部の公式サイトを立ち上げました。
-これからは不定期で活動内容や技術系のブログを書いていきます。</description><content type="html">&lt;p>情報科学部の公式サイトを立ち上げました。&lt;/p>
-&lt;p>これからは不定期で活動内容や技術系のブログを書いていきます。&lt;/p></content></item><item><title>ブログ環境のご紹介</title><link>https://is-club.github.io/posts/2021-03-27-about-blog-environment/</link><pubDate>Sat, 27 Mar 2021 21:42:11 +0900</pubDate><guid>https://is-club.github.io/posts/2021-03-27-about-blog-environment/</guid><description>需要があるかわかりませんが、このブログの構成をお伝えしようかと思います。
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Information Science Club</title><link>https://is-club.github.io/posts/</link><description>Recent content in Posts on Information Science Club</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>Information Science Club</copyright><lastBuildDate>Sat, 27 Mar 2021 21:44:11 +0900</lastBuildDate><atom:link href="https://is-club.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>ブログ環境のご紹介</title><link>https://is-club.github.io/posts/2021-03-27-about-blog-environment/</link><pubDate>Sat, 27 Mar 2021 21:44:11 +0900</pubDate><guid>https://is-club.github.io/posts/2021-03-27-about-blog-environment/</guid><description>需要があるかわかりませんが、このブログの構成をお伝えしようかと思います。
 バージョン管理: GitHub ホスティング: GitHub Pages ビルド: GitHub Actions 静的サイトジェネレーター: Hugo テーマ: hello-friend-ng GitHubで色々とやっているのはそのほうが便利だからです。 近いうちにドメインを取ってCloudflareでCDNをさせたいと思っています。</description><content type="html"><![CDATA[<p>需要があるかわかりませんが、このブログの構成をお伝えしようかと思います。</p>
 <ul>
 <li>バージョン管理: GitHub</li>
@@ -11,4 +9,6 @@
 </ul>
 <p>GitHubで色々とやっているのはそのほうが便利だからです。
 近いうちにドメインを取ってCloudflareでCDNをさせたいと思っています。</p>
-]]></content></item></channel></rss>
+]]></content></item><item><title>ブログ始めました</title><link>https://is-club.github.io/posts/first-post/</link><pubDate>Sat, 27 Mar 2021 21:42:11 +0900</pubDate><guid>https://is-club.github.io/posts/first-post/</guid><description>情報科学部の公式サイトを立ち上げました。
+これからは不定期で活動内容や技術系のブログを書いていきます。</description><content type="html">&lt;p>情報科学部の公式サイトを立ち上げました。&lt;/p>
+&lt;p>これからは不定期で活動内容や技術系のブログを書いていきます。&lt;/p></content></item></channel></rss>
