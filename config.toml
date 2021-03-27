@@ -1,0 +1,24 @@
+baseURL = "https://is-club.github.io/"
+languageCode = "ja-jp"
+DefaultContentLanguage = "ja"
+title = "Information Science Club"
+author = "ISC Staff"
+copyright = "Information Science Club"
+theme = "hello-friend-ng"
+
+[params]
+    homeSubtitle = "情報と共存する"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "su"
+    name = "Study Unit"
+    url = "/su/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/tags/"
+    weight = 15
