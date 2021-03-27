@@ -5,6 +5,7 @@ title = "Information Science Club"
 author = "ISC Staff"
 copyright = "Information Science Club"
 theme = "hello-friend-ng"
+hasCJKLanguage = true
 
 [params]
     homeSubtitle = "情報と共存する"
