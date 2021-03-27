@@ -6,6 +6,8 @@ toc: false
 author: "Information Science Club OB"
 tags:
   - press
+categories:
+  - press
 ---
 
 情報科学部の公式サイトを立ち上げました。

@@ -6,6 +6,10 @@ toc: false
 author: "Information Science Club OB"
 tags:
   - tech
+  - GitHub
+  - Hugo
+categories:
+  - tech
 ---
 
 需要があるかわかりませんが、このブログの構成をお伝えしようかと思います。

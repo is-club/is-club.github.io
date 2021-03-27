@@ -20,5 +20,5 @@ theme = "hello-friend-ng"
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
-    url = "/tags/"
+    url = "/categories/"
     weight = 15
