@@ -1,6 +1,6 @@
 ---
 title: "ブログ環境のご紹介"
-date: 2021-03-27T21:42:11+09:00
+date: 2021-03-27T21:44:11+09:00
 draft: false
 toc: false
 author: "Information Science Club OB"
