@@ -6,6 +6,7 @@ author = "ISC Staff"
 copyright = "Information Science Club"
 theme = "hello-friend-ng"
 hasCJKLanguage = true
+googleAnalytics = "G-K70D9KPZJ6"
 
 [params]
     homeSubtitle = "情報と共存する"
